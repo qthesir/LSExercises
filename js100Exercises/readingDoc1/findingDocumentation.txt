@@ -1,0 +1,4 @@
+What is an excellent destination when looking for JavaScript documentation?
+
+Answer: The MDN website, for most situations. ECMA if you need in-depth, precise documentation
+on some component of JavaScript syntax. 
